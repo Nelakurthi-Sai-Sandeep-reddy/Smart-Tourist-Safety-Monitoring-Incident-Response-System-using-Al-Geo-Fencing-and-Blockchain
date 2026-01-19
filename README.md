@@ -1,0 +1,2 @@
+# Smart-Tourist-Safety-Monitoring-Incident-Response-System-using-Al-Geo-Fencing-and-Blockchain
+Smart Tourist Safety Monitoring &amp; Incident Response System uses AI, geo-fencing, and blockchain-based digital ID to enhance tourist safety. It enables real-time location monitoring, risk detection, and instant emergency alerts while securely managing identity data for fast, privacy-preserving incident response.
